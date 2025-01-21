@@ -2,7 +2,6 @@
 
 Esta es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
-Pagina Web: https://kendra-artavia.github.io/Amigo-Secreto/
 ## Funcionalidades
 - Agregar nombres mediante un campo de texto y un botón "Adicionar".
 - Mostrar los nombres ingresados en una lista visible en la página.
